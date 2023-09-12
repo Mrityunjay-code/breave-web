@@ -1,0 +1,47 @@
+.head{
+    margin-top: 122px;
+}
+.h{
+    margin-left: 200px;
+    color: blue;
+    padding-top: 90px;
+    font-style: italic;
+}
+.d{
+    margin-left: 200px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+}
+.d5{
+    margin-left: 300px;
+    width: 250px;
+    height: 50px;
+    border-radius: 40%;
+    background-color: rgb(247, 132, 132);
+    
+     
+   
+}
+.d5:hover{
+    background-color: rgb(91, 188, 236);
+}
+.d3{
+    margin-top: 150px;
+    text-align: center;
+   margin-left: 380px;
+    width: 40%;
+    height: 500px;
+    border: 5px solid black;
+    background: linear-gradient(#d2ee9e,#c1dd85);
+}
+    
+   
+        /* minHeight: '100vh', // Ensures that the gradient covers the entire viewport height
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+        padding: '20px', */
+     

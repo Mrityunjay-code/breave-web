@@ -1,0 +1,67 @@
+#nav{
+	background-color: rgb(26, 211, 149);
+ 
+	
+
+	
+}
+/* navbar.css */
+.custom-navbar {
+	background-color: white;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.877);
+	color: black; 
+  /* Adjust the shadow as needed */
+  }
+  .btn1{
+	border-radius: 2px solid rgb(20, 2, 2);
+	
+  }
+ 
+
+  
+  /* Style for navigation links */
+  .custom-navbar .nav-link {
+	color: black; /* Default link color */
+	transition: color 0.3s; 
+  border-radius: 10px;/* Smooth transition for color change */
+  }
+  
+  .custom-navbar .nav-link:hover {
+   
+	color: #007bff; /* Color on hover */
+  }
+  
+  
+  /* Style for buttons */
+  .custom-navbar .btn {
+	transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s; /* Smooth transition for button changes */
+  }
+  
+  .custom-navbar .btn-primary:hover {
+	background-color: #0056b3; /* Background color on hover */
+	border-color: #0056b3; /* Border color on hover */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow on hover */
+  }
+  
+  .custom-navbar .btn-success:hover {
+	background-color: #1d8348; /* Background color on hover */
+	border-color: #1d8348; /* Border color on hover */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow on hover */
+  }
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .custom-navbar {
+    position: fixed;
+    top: -9%;
+    
+    /* width: 100%; */
+    /* Add other styles as needed */
+  }
+  
+  
+  
+

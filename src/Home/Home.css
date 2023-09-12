@@ -1,0 +1,419 @@
+.i1 {
+  margin-top: 12px;
+}
+
+.head {
+  margin-top: 100px;
+}
+
+.n1 {
+  margin-top: 12px;
+  margin-left: 18px;
+  padding-left: 10px;
+  padding-top: 70px;
+}
+
+.n2 {
+  margin-top: 12px;
+}
+
+
+.img {
+  width: 40%;
+  float: right;
+  margin-top: -400px;
+  mix-blend-mode: darken;
+  background-color: aliceblue;
+  background-color: transparent;
+
+
+
+}
+
+.company-logo {
+
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 35px;
+
+}
+
+.logo img {
+  height: 2.5rem;
+  opacity: .2;
+  width: auto;
+  margin: 40px;
+}
+
+.logo2 img {
+
+  height: 2.5rem;
+  opacity: .2;
+  width: auto;
+  margin: 30px;
+
+}
+
+.cardall {
+  display: flex;
+  gap: 15px;
+  box-shadow: 0 0 10px #d9d9d9;
+  
+  
+  /* Adjust the value as needed */
+}
+
+.card-item {
+  margin: 1px;
+ 
+  /* You can also use padding instead of margin */
+}
+
+.card-item img {
+  background-color: white;
+  width: 128px;
+  height: 162px;
+  margin: 14px;
+  padding: 21px;
+
+  padding-bottom: 13px;
+
+}
+
+.card-item img2 {
+  background-color: white;
+  width: 92px;
+  height: 195px;
+  margin: 4px;
+  padding: 66px;
+
+  padding-bottom: 13px;
+
+}
+
+.card-item img3 {
+  width: 142px;
+  height: 66px;
+  margin: 13px;
+  padding: 54px;
+
+  padding-bottom: 111px;
+  margin-top: 23px;
+
+}
+
+.card-item img4 {
+  background-color: white;
+  
+  width: 92px;
+  height: 181px;
+  margin: 14px;
+  padding: 86px;
+
+  padding-bottom: 13px;
+
+}
+.card-item img5 {
+  background-color: white;
+  width: 128px;
+  height: 182px;
+  margin: 14px;
+  padding: 21px;
+
+  padding-bottom: 13px;
+
+}
+.card-item img6 {
+  background-color: white;
+  width: 143px;
+  height: 134px;
+  margin: 24px;
+  padding: 41px;
+ 
+  padding-bottom: 108px;
+
+}
+.card-item img7 {
+  background-color: white;
+  width: 161px;
+  height: 147px;
+  margin: 24px;
+  padding: 41px;
+ 
+  padding-bottom: 108px;
+
+}
+
+
+
+.custom-card-media {
+  display: block;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-position: center;
+  background-position: center;
+  width: 100%;
+  object-fit: cover;
+}
+
+.hover-shadow {
+  transition: text-shadow 0.3s ease;
+}
+
+.hover-shadow:hover {
+  text-shadow: 0px 3px 6px rgba(0, 0, 255, 0.5); /* Blue shadow on hover */
+}
+.logo2 {
+  display: flex;
+  align-items: center;
+}
+
+.logo2 img {
+  width: 150px;
+  height: 50px;
+  padding-left: 30px;
+}
+
+.logo2 img:hover {
+  filter: drop-shadow(0 0 5px rgb(59, 241, 27));
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 150px;
+  height: 50px;
+  padding-left: 30px;
+}
+
+.logo img:hover {
+  filter: drop-shadow(0 0 5px rgb(47, 225, 19));
+}
+
+.cardall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-item {
+  margin: 10px;
+}
+
+@media (max-width: 768px) {
+  .cardall {
+    display: block;
+    
+  }
+}
+.s1{
+  margin-right: 800px;
+}
+.s2{
+  margin-left: 700px;
+  margin-top: -583px;
+
+}
+.s{
+    transition: text-shadow 0.3s ease;
+    margin: 49px
+  }
+  
+  .s:hover {
+    text-shadow: 0px 3px 6px rgba(0, 0, 255, 0.5); /* Blue shadow on hover */
+  }
+.all{
+  margin: 12px;
+
+}
+@media (max-width: 768px) {
+  .all {
+   
+  }
+}
+.para{
+  float: right;
+    margin-right:170px;
+    margin-top: 15px;
+}
+.sp{
+  font-weight: bold;
+  padding-left: 716px;
+  color: blue;
+}
+ 
+.para1{
+  margin-left: 307px;
+  padding-left: 407px;
+}
+.pro1{
+  display: flex;
+  margin-top: 17px;
+  /* box-shadow: 0 0 10px #d9d9d9; */
+  gap: 12px;
+
+}
+.card-item img9 {
+  background-color: white;
+  width: 161px;
+  height: 147px;
+  margin: 55px;
+  padding: 41px;
+ 
+  padding-bottom: 108px;
+  border-radius: 50%;
+  text-align: center;
+
+}
+.ment{
+margin-top: 173px;
+  
+}
+.ment:hover {
+  text-shadow: 0px 3px 6px rgba(0, 0, 255, 0.5); /* Blue shadow on hover */
+}
+.card-item img9 {
+  background-color: white;
+  width: 161px;
+  height: 147px;
+  margin: 55px;
+  padding: 41px;
+ 
+  padding-bottom: 108px;
+  border-radius: 50%;
+  text-align: center;
+
+}
+.cardall1{
+  display: flex;
+  gap: 15px;
+  /* box-shadow: 0 0 10px #d9d9d9; */
+
+}
+.slid{
+  background-color: rgb(218, 232, 232);
+  width: 100%;
+  height: auto ;
+  margin: 23px;
+}
+
+.slider-container {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 50%;
+  
+}
+
+.slider-image {
+  width: 80%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+  
+}
+
+.slider {
+  margin-top: 16px;
+}
+
+.slider-label {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  color: #555;
+}
+
+
+/* .custom-navbar {
+  transition: all 0.3s ease-in-out; /* Add smooth transition effect */
+/* } */
+
+/* .custom-navbar.sticky {
+  background-color: #fff; 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+} */
+
+/* 
+body {
+  padding-top: 80px; 
+}  */
+
+
+
+
+
+
+
+/* .img1{
+    width: 171px;
+    height: auto;
+    margin-top: 115px;
+    margin-left: 610px;
+  
+
+}
+.img2{
+    width: 150px;
+    height: auto;
+    margin-top: -133px;
+    margin-left: 200px;
+}
+.img3{
+    width: 200px;
+    height:auto ;
+    margin-left: 820px;
+    margin-top: -200px;
+    
+}
+.img4{
+    width: 200px;
+} */
+/* Navbar.css */
+/* Navbar.css */
+
+
+
+
+
+
+/* Add your custom styles to change the color of the slider buttons */
+.slick-prev,
+.slick-next {
+  /* background-color: #007bff; Change this to your desired button color */
+  background-color: #151313;
+  color: #121111; /* Change the text color of the buttons */
+}
+
+/* Hover styles (optional) */
+.slick-prev:hover,
+.slick-next:hover {
+  background-color: #bce456; /* Change the hover color */
+}
+
+.slick-prev:before{
+  color: 'green';
+}
+.sli{
+background-image: url('https://ik.imagekit.io/sayancr777/SheRise/office.jpg?updatedAt=1689503601239');
+margin: 12px;
+width: 100%;
+height: 433px;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+justify-content: center;
+
+
+}
+
+ 
+  
